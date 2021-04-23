@@ -1,6 +1,7 @@
-### Hi there 🤟
+### Hi there! :call_me_hand:
 ---
-I'm currently an IT student at univr :computer:
+:computer: I'm currently an IT student at univr
+
 
 <!--
 **gfurri20/gfurri20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
