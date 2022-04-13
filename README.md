@@ -1,6 +1,6 @@
 ### Hi there! :call_me_hand:
 ---
-:computer: I'm currently an IT student at univr
+:computer: Currently IT student at @univr
 
 
 <!--
